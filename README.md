@@ -1,3 +1,11 @@
+# Socket-Front end
+
+Reconstruir módulos de Node
+```
+npm install 
+```
+_________________________________________________________________________________________________________________________________________________________________________________
+
 # Basico
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
